@@ -1,5 +1,11 @@
 # Protheus Class Lab
 
+<br />
+
+**English** &nbsp;|&nbsp; [Português (Brasil)](README.pt-BR.md)
+
+<br />
+
 ADVPL examples of Object-Oriented Programming in TOTVS Protheus — classes, inheritance, methods, and design patterns.
 
 > **Disclaimer**: Educational examples. All class names and data structures are fictional.
